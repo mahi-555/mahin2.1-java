@@ -1,0 +1,172 @@
+Equation 1: Right Triangle Height
+ℎ
+ =
+𝑏
+×
+tan
+⁡
+(
+𝜃
+)
+h=b×tan(θ)
+
+Math methods used:
+
+Math.tan()
+
+Math.toRadians()
+
+ Equation 2: Compound Interest
+𝐴
+=
+𝑃
+(
+1
++
+𝑟
+𝑛
+)
+𝑛
+𝑡
+A=P(1+
+n
+r
+	​
+
+)
+nt
+
+Math methods used:
+
+Math.pow()
+
+ Equation 3: Cartesian → Polar Conversion
+𝑟
+=
+𝑥
+2
++
+𝑦
+2
+r=
+x
+2
++y
+2
+	​
+
+𝜃
+=
+tan
+⁡
+−
+1
+(
+𝑦
+𝑥
+)
+θ=tan
+−1
+(
+x
+y
+	​
+
+)
+
+Math methods used:
+
+Math.sqrt()
+
+Math.pow()
+
+Math.atan()
+
+Math.toDegrees()
+
+ Equation 4: Distance Between Two Points
+𝑑
+=
+(
+𝑥
+2
+−
+𝑥
+1
+)
+2
++
+(
+𝑦
+2
+−
+𝑦
+1
+)
+2
+d=
+(x
+2
+	​
+
+−x
+1
+	​
+
+)
+2
++(y
+2
+	​
+
+−y
+1
+	​
+
+)
+2
+	​
+
+
+Math methods used:
+
+Math.sqrt()
+
+Math.pow()
+
+ Equation 5: Quadratic Equation
+Δ
+=
+𝑏
+2
+−
+4
+𝑎
+𝑐
+Δ=b
+2
+−4ac
+𝑥
+=
+−
+𝑏
+±
+Δ
+2
+𝑎
+x=
+2a
+−b±
+Δ
+	​
+
+	​
+
+
+Math methods used:
+
+Math.pow()
+
+Math.sqrt()
+
+Math.min()
